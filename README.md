@@ -1,5 +1,2 @@
 - 👋 Hi, I’m @Mahdi0001000
 - 👀 I’m interested in creating stuff 
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on whatever cool
-- 📫 How to reach me IDK
